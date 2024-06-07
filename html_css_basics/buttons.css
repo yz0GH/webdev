@@ -1,0 +1,67 @@
+.buttondv {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.num {
+  margin-right: 10px;
+}
+
+.strech {
+  margin-top: 10px;
+  color: white;
+  background-color: green;
+  border-style: none;
+  font-weight: bold ;
+  padding: 5px;
+  cursor: pointer; 
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+
+.strech:hover {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.threed {
+  margin-top: 10px;
+  color: white;
+  background-color: green;
+  border-style: none;
+  font-weight: bold ;
+  padding: 5px;
+  cursor: pointer;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+  transition: all 0.1s;
+}
+
+.threed:active {
+   box-shadow: none;
+   margin-top: 12px;
+   margin-left: 2px;
+}
+
+.ott {
+  margin-top: 10px;
+  color: white;
+  background-color: green;
+  border-style: none;
+  font-weight: bold ;
+  font-size: 14px;
+  cursor: pointer;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  transition: all 0.2s;
+}
+
+.ott:hover {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+}

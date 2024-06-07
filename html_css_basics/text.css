@@ -1,0 +1,48 @@
+p {
+  font-family: Roboto Condensed;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.data {
+  font-size: 15px;
+  color: gray;
+  margin-bottom: 15px;
+}
+
+.channel {
+  font-size: 15px;
+  color: gray;
+  margin-bottom: 15px;
+}
+
+.description {
+  font-size: 15px;
+  color: gray;
+  width: 400px;
+  line-height: 20px;
+  margin-bottom: 40px;
+}
+
+.apple {
+  color: white;
+  font-size: 20px;
+  background-color: rgb(227, 64, 64);
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.apple_shop:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  
+}
